@@ -1,0 +1,42 @@
+Mär 21, 2021 7:43:20 PM server.Server <init>
+INFORMATION: Server started
+Mär 21, 2021 7:43:38 PM server.Server <init>
+INFORMATION: Client connected
+Mär 21, 2021 7:43:38 PM server.Server <init>
+INFORMATION: client: /127.0.0.1:57602
+Mär 21, 2021 7:43:38 PM server.ClientHandler lambda$new$0
+INFORMATION: Client 22 authorized with nickname marx
+Mär 21, 2021 7:43:38 PM server.Server subscribe
+INFORMATION: Client 22 subscribed as marx
+Mär 21, 2021 7:44:16 PM server.Server <init>
+INFORMATION: Client connected
+Mär 21, 2021 7:44:16 PM server.Server <init>
+INFORMATION: client: /127.0.0.1:57616
+Mär 21, 2021 7:44:16 PM server.ClientHandler lambda$new$0
+INFORMATION: Client 33 authorized with nickname eddy
+Mär 21, 2021 7:44:16 PM server.Server subscribe
+INFORMATION: Client 33 subscribed as eddy
+Mär 21, 2021 7:44:29 PM server.Server privateMsg
+INFORMATION: marx sent message to eddy
+Mär 21, 2021 7:44:40 PM server.Server unsubscribe
+INFORMATION: Client 22 unsubscribed
+Mär 21, 2021 7:44:40 PM server.ClientHandler lambda$new$0
+INFORMATION: Client disconnected: marx
+Mär 21, 2021 7:44:42 PM server.Server unsubscribe
+INFORMATION: Client 33 unsubscribed
+Mär 21, 2021 7:44:42 PM server.ClientHandler lambda$new$0
+INFORMATION: Client disconnected: eddy
+Mär 21, 2021 7:44:58 PM server.Server <init>
+INFORMATION: Server started
+Mär 21, 2021 7:45:16 PM server.Server <init>
+INFORMATION: Client connected
+Mär 21, 2021 7:45:16 PM server.Server <init>
+INFORMATION: client: /127.0.0.1:57634
+Mär 21, 2021 7:45:16 PM server.ClientHandler lambda$new$0
+INFORMATION: Client 33 authorized with nickname eddy
+Mär 21, 2021 7:45:16 PM server.Server subscribe
+INFORMATION: Client 33 subscribed as eddy
+Mär 21, 2021 7:45:30 PM server.Server unsubscribe
+INFORMATION: Client 33 unsubscribed
+Mär 21, 2021 7:45:30 PM server.ClientHandler lambda$new$0
+INFORMATION: Client disconnected: eddy
